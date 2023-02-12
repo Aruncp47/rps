@@ -4,13 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+THIS IS A SIMPLE ROCK PAPER SCISSOR GAME , DEVELOPED WITH A SIMPPLE UI. ![Screenshot_20230212_132704](https://user-images.githubusercontent.com/113675399/218299641-4a4e951a-918c-4da0-bb16-af6561f3805f.png)
+![Screenshot_20230212_132810](https://user-images.githubusercontent.com/113675399/218299643-4cedd0b2-db02-43f0-a1ae-f2b765fd5b37.png)
